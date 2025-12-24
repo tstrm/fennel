@@ -20,5 +20,5 @@ Checks holdings for all accounts and attempts to close any position valued $2 or
 ## Windows
 Download the .exe files to run on Windows without having to install a Perl interpreter.
 
-
+<br /><br />
 Credit to claude.ai for helping generate some of the code.
